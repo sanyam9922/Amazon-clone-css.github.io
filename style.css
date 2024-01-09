@@ -242,3 +242,46 @@ footer{
 .foot-panel-2 ul li{
     margin-top: 10px;
 }
+
+.foot-panel-3{
+    background-color: #222f3d;
+    border-top: 0.5px solid white;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-logo{
+    height: 50px;
+    width: 100px;
+}
+
+.logo-2{
+    background-image: url("amazon_logo.png");
+    height: 50px;
+    width: 100%;
+    background-size: cover;
+}
+
+.foot-panel-4{
+    background-color: #0F1111;
+    color: white;
+    height: 80px;
+    font-size: 0.85rem;
+    text-align: center;
+}
+
+.pages{
+    padding-top: 15px;
+}
+
+
+.pages a{
+    color: white;
+    text-decoration: none;
+}
+
+.copyright{
+    padding-top: 4px;
+}
